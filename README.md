@@ -4,7 +4,7 @@
   <br>
   
   <p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made in KENYA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
   
   <p align="center">
@@ -139,7 +139,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 `pkg install python`
 
-`git clone https://github.com/D4RK-4RMY/DARKARMY.git`
+`git clone https://github.com/amnesia-ri/DARKARMY.git`
 
 `cd DARKARMY`
 
@@ -148,13 +148,13 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 `python2 darkarmy.py`
 
 <p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/darkarmy.png" alt="darkarmy Logo"/>
+  <img src="https://github.com/amnesia-ri/DARKARMY/blob/main/darkarmy.png" alt="darkarmy Logo"/>
 </p>  
   
   
   ### Development By :
 
-Developer / Author: [1ucif3r](https://github.com/1ucif3r)
+Developer / Author: [Amn3sia](https://github.com/amnesia-ri)
 
 ### <h2 align="center">😈 Visit 😈 </h2>
 
