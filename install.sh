@@ -19,9 +19,9 @@ echo "
 ██   ██ ██   ██ ██   ██ ██  ██  ██   ██ ██   ██ ██  ██  ██    ██    
 ██████  ██   ██ ██   ██ ██   ██ ██   ██ ██   ██ ██      ██    ██    "
 echo "                                                               "                                                                    
-echo -e "${GREEN}                                          ~@~ Coded By 1ucif3r ~@~ ${NC}"
+echo -e "${GREEN}                                          ~@~ Coded By Amn3sia ~@~ ${NC}"
 echo ""
-echo -e "${YELLOW} www.darkarmy.live | Instagram.com/1ucif3r | Github.com/D4RK-4RMY ${NC} "
+echo -e "${YELLOW} www.darkarmy.live| Github.com/amnesia-ri ${NC} "
 echo ""
 echo "---------------------------------------------------------------------------------------"
 echo ""
@@ -53,7 +53,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/D4RK-4RMY/DARKARMY.git "$INSTALL_DIR";
+git clone https://github.com/amnesia-ri/DARKARMY.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python $INSTALL_DIR/darkarmy.py" '${1+"$@"}' > DARKARMY;
 chmod +x DARKARMY;
