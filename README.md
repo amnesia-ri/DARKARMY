@@ -121,7 +121,7 @@
 
 This Tool Must Run As ROOT !!!
 
-`git clone https://github.com/D4RK-4RMY/DARKARMY.git`
+`git clone https://github.com/amnesia-ri/DARKARMY.git`
 
 `cd DARKARMY`
 
